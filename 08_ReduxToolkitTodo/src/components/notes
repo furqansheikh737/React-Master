@@ -1,0 +1,5 @@
+// State apko ye bata hai k abhi initial state ma kia kia mojood hai aun sab ka excess apko dedeta hai.
+
+// Action k zariye hum method ma se koi bhi value le skte hen OR jo bhi data pass ho rha hai
+
+// Payload aik object hai jis mase hun value ko excess krte hen
